@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "617db67443efb65e663c4f50",
+    "title": "Node.JS from Scratch",
+    "slug": "node.js-from-scratch",
+    "author": "Emmanuel Adebayo",
+    "numberPages": 444,
+    "publisher": "esteemdesigns",
+    "createdAt": "2021-11-01T22:24:32.839Z"
+  },
+  {
+    "_id": "617db81043efb65e663c4f52",
+    "title": "PHP from Beginners",
+    "slug": "php-from-beginners",
+    "author": "Emmanuel Adebayo",
+    "numberPages": 240,
+    "publisher": "esteemdesigns",
+    "createdAt": "2021-11-01T22:24:32.839Z"
+  },
+  {
+    "_id": "61813569f075555795fec78d",
+    "title": "Learning Microservices with Express.js and MongoDB",
+    "slug": "learning-microservices-with-express.js-and-mongodb",
+    "author": "Emmanuel Adebayo",
+    "numberPages": 300,
+    "publisher": "esteemdesigns",
+    "createdAt": "2021-11-01T22:24:32.839Z"
+  },
+  {
+    "_id": "618135eef075555795fec796",
+    "title": "Advanced HTML and CSS for Beginners",
+    "slug": "advanced-html-and-css-for-beginners",
+    "author": "Emmanuel Adebayo",
+    "numberPages": 100,
+    "publisher": "esteemdesigns",
+    "createdAt": "2021-11-01T22:24:32.839Z"
+  },
+  {
+    "_id": "61813614f075555795fec799",
+    "title": "React Crash Course for Beginners",
+    "slug": "react-crash-course-for-beginners",
+    "author": "Emmanuel Adebayo",
+    "numberPages": 200,
+    "publisher": "esteemdesigns",
+    "createdAt": "2021-11-01T22:24:32.839Z"
+  }
+]

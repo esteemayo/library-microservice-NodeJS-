@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "617e8e0c4ed899b5f4e54731",
+    "name": "John Doe",
+    "age": 30,
+    "address": "New York, USA",
+    "createdAt": "2021-11-02T13:49:51.989Z"
+  },
+  {
+    "_id": "617e8e334ed899b5f4e54733",
+    "name": "Mary Doe",
+    "age": 28,
+    "address": "Los Angelese, USA",
+    "createdAt": "2021-11-02T13:49:51.989Z"
+  },
+  {
+    "_id": "6181424656867db4715487fd",
+    "name": "Alice Doe",
+    "age": 32,
+    "address": "San Fransisco, USA",
+    "createdAt": "2021-11-02T13:49:51.989Z"
+  },
+  {
+    "_id": "618142a056867db4715487ff",
+    "name": "Chris Vega",
+    "age": 40,
+    "address": "Las Vegas, USA",
+    "createdAt": "2021-11-02T13:49:51.989Z"
+  },
+  {
+    "_id": "618142d456867db471548801",
+    "name": "Anne Kimberly",
+    "age": 26,
+    "address": "Texas, USA",
+    "createdAt": "2021-11-02T13:49:51.989Z"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "617eecdc9750fd3e5a39e0ae",
+    "customerId": "617e8e0c4ed899b5f4e54731",
+    "bookId": "617db67443efb65e663c4f50",
+    "initialDate": "2021-10-31T00:00:00.000Z",
+    "deliveryDate": "2012-11-03T00:00:00.000Z"
+  },
+  {
+    "_id": "6181442428d73e9f84c22ee4",
+    "customerId": "617e8e334ed899b5f4e54733",
+    "bookId": "617db81043efb65e663c4f52",
+    "initialDate": "2021-10-31T00:00:00.000Z",
+    "deliveryDate": "2012-11-03T00:00:00.000Z"
+  },
+  {
+    "_id": "6181444a28d73e9f84c22ee6",
+    "customerId": "6181424656867db4715487fd",
+    "bookId": "61813569f075555795fec78d",
+    "initialDate": "2021-10-31T00:00:00.000Z",
+    "deliveryDate": "2012-11-03T00:00:00.000Z"
+  },
+  {
+    "_id": "6181446928d73e9f84c22ee8",
+    "customerId": "618142a056867db4715487ff",
+    "bookId": "618135eef075555795fec796",
+    "initialDate": "2021-10-31T00:00:00.000Z",
+    "deliveryDate": "2012-11-03T00:00:00.000Z"
+  },
+  {
+    "_id": "6181448728d73e9f84c22eea",
+    "customerId": "618142d456867db471548801",
+    "bookId": "61813614f075555795fec799",
+    "initialDate": "2021-10-31T00:00:00.000Z",
+    "deliveryDate": "2012-11-03T00:00:00.000Z"
+  }
+]
